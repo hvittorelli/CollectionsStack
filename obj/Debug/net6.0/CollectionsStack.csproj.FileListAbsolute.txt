@@ -1,0 +1,15 @@
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\bin\Debug\net6.0\CollectionsStack.exe
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\bin\Debug\net6.0\CollectionsStack.deps.json
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\bin\Debug\net6.0\CollectionsStack.runtimeconfig.json
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\bin\Debug\net6.0\CollectionsStack.dll
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\bin\Debug\net6.0\CollectionsStack.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.csproj.AssemblyReference.cache
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.AssemblyInfoInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.AssemblyInfo.cs
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.csproj.CoreCompileInputs.cache
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.dll
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\refint\CollectionsStack.dll
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.pdb
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\CollectionsStack.genruntimeconfig.cache
+C:\Users\missh\source\repos\CIT195\CollectionsStack\CollectionsStack\obj\Debug\net6.0\ref\CollectionsStack.dll
